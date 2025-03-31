@@ -21,5 +21,5 @@ The background color is and `#0969DA` for dark mode.
 
 
 [^1] "Ronin" moniker comes from a series of inspirations including, but not limited to; Japanese Culture and Ancient Feudal Japan, The Ronin from the Star Wars Visions Universe, The Shogun miniseries, Akiro Kurasawa
-[^2] SGStudios or Sounds Good Studios is my undeveloped development studio. SGS focuses on high quality audio experiences for video game and cinematic environments. For more see [SGStudios](https://github.com/SGStudio-Ronin/SGStudio-Ronin/blob/main/SGStudios)
+[^2] SGStudios or Sounds Good Studios is my undeveloped development studio. SGS focuses on high quality audio experiences for video game and cinematic environments. For more see [SGStudios](SGStudios.md)
 
