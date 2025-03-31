@@ -1,25 +1,9 @@
 ## Hi there 👋 
 
-I am Ronin[^1], from SGStudios[^2]. 
-<!--
-**SGStudio-Ronin/SGStudio-Ronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+I am Ronin[^1], from SGStudios[^2]. I work in AV and am inspired by science fiction, the future of game development and artificial intelligence. 
 
 
-The background color is and `#0969DA` for dark mode.
+[^1] "Ronin" moniker comes from a series of inspirations including, but not limited to; Japanese Culture and Ancient Feudal Japan, The Ronin from the Star Wars Visions Universe, The Shogun miniseries, Akiro Kurasawa etc..
 
-
-[^1] "Ronin" moniker comes from a series of inspirations including, but not limited to; Japanese Culture and Ancient Feudal Japan, The Ronin from the Star Wars Visions Universe, The Shogun miniseries, Akiro Kurasawa
 [^2] SGStudios or Sounds Good Studios is my undeveloped development studio. SGS focuses on high quality audio experiences for video game and cinematic environments. For more see [SGStudios](SGStudios.md)
 
