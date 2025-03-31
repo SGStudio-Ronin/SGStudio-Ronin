@@ -1,6 +1,6 @@
 ### I am ***Ronin***, from ***SGStudios***.
 
-![image](https://github.com/user-attachments/assets/b4ac9e64-f33e-40f9-a584-3e371148a039)
+<img src="https://github.com/user-attachments/assets/b4ac9e64-f33e-40f9-a584-3e371148a039" width="200" height="auto">
 
 > "It's like they misunderstand the whole point. That's not why you like Star Wars; you like Star Wars because it _**speaks**_ to your _soul_, **bro**."
 >
